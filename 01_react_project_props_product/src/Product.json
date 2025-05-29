@@ -1,0 +1,38 @@
+[
+  {
+    "image": "https://cdn.thewirecutter.com/wp-content/media/2024/11/cheapgaminglaptops-2048px-8006-3x2-1.jpg?auto=webp&quality=75&crop=4:3,smart&width=1024",
+    "name": "Gaming Laptop",
+    "price": 1299.99,
+    "description": "High-performance gaming laptop with latest RTX graphics."
+  },
+  {
+    "image": "https://www.valueplusretail.com/cdn/shop/files/IPHONE16128GBBLACK3.jpg?v=1727069329",
+    "name": "Smartphone X",
+    "price": 799.99,
+    "description": "Latest smartphone with 6.5-inch display and 128MP camera."
+  },
+  {
+    "image": "https://cdn.thewirecutter.com/wp-content/media/2023/07/bluetoothheadphones-2048px-0876.jpg?auto=webp&quality=75&width=1024",
+    "name": "Wireless Headphones",
+    "price": 199.99,
+    "description": "Noise-canceling wireless headphones with 20-hour battery life."
+  },
+  {
+    "image": "https://s.yimg.com/ny/api/res/1.2/ZGUWBYmMbGv1qrr0d7TKpg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-12/aa361e40-b8cb-11ef-b57f-0033911061d6",
+    "name": "Smartwatch Pro",
+    "price": 249.99,
+    "description": "Smartwatch with health tracking and customizable watch faces."
+  },
+  {
+    "image": "https://media.cnn.com/api/v1/images/amazon-backfill/31h6b6n2hll-sl500.jpg?c=16x9&q=h_720,w_1280,c_fill",
+    "name": "Bluetooth Speaker",
+    "price": 99.99,
+    "description": "Portable Bluetooth speaker with deep bass and waterproof design."
+  },
+  {
+    "image": "https://limeberry.in/wp-content/uploads/2024/01/1st-14-1200x900.jpg",
+    "name": "4K LED TV",
+    "price": 599.99,
+    "description": "55-inch 4K UHD Smart TV with HDR and streaming apps."
+  }
+]
