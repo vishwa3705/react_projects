@@ -45,3 +45,33 @@
     font-size: 0.95rem;
     color: #555;
 }
+.categories button{
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 4px;
+    margin: 5px 3px 5px 0px;
+}
+.buy{
+    background-color: #27ae60;
+    border: none;
+    color: #fff;
+    width: 100%;
+    padding: 7px;
+    font-size: large;
+    border-radius: 7px;
+    margin-top: 5px;
+}
+.product-name{
+    margin-bottom: 10px;
+}
+.name-like{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#likeBtn{
+    background-color: #27ae60;
+    border-radius: 50%;
+    padding: 3px;
+}

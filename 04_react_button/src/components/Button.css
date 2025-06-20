@@ -1,0 +1,31 @@
+.outterBox{
+    /* border: 1px solid black; */
+    border-radius: 25px;
+    height: 30px;
+    width: 70px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+}
+.innerBox{
+    border: 1px solid white;
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+p{
+    text-align: center;
+    color: white;
+}
+.c1{
+    justify-content: start;
+    background-color: green;
+}
+.c2{
+    justify-content: end;
+    background-color: red;
+}

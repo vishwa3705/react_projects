@@ -1,0 +1,22 @@
+.main{
+    padding: 5px;
+    width: max-content; 
+    border: 1px solid black;
+}
+h1{
+    text-align: center;
+}
+.items{
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+}
+.clearAll{
+    width: 100%;
+}
+li{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: large;
+}
